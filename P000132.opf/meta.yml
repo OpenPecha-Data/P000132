@@ -1,8 +1,9 @@
-ebook_metadata:
+id: P000132
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །མཐར་ཕྱིན་འབྲས་བུའི་རང་བཞིན་རིམ་པར་ཕྱེ་བ། །
   authors:
   - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
-  sku: RDI-TOK-10-1
   layers:
   - book_title
   - author
@@ -10,6 +11,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: RDI-TOK-10-1
 web_metadata:
   title:
     en: A Systematic Presentation of the Ultimate Result
